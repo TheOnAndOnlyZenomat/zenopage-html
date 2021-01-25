@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://adrsrv.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://adrsrv.duckdns.org/" rel="alternate" type="text/html" /><updated>2021-01-22T20:41:16+01:00</updated><id>https://adrsrv.duckdns.org/feed.xml</id><title type="html">Zeno’s Homepage</title><subtitle>A webpage and blog for me, Zeno, a 17 year old dude interested in Linux, FOSS, selfhosting and other stuff.</subtitle><author><name>Zeno</name><email>adrsrv@protonmail.org</email></author><entry><title type="html">Why piracy exists</title><link href="https://adrsrv.duckdns.org/2021/01/22/piracy.html" rel="alternate" type="text/html" title="Why piracy exists" /><published>2021-01-22T00:00:00+01:00</published><updated>2021-01-22T00:00:00+01:00</updated><id>https://adrsrv.duckdns.org/2021/01/22/piracy</id><content type="html" xml:base="https://adrsrv.duckdns.org/2021/01/22/piracy.html">&lt;p&gt;
+For the first part of the story it is important to know, that I have a Raspberry Pi with Kodi connected to my TV as a substitute for a smart TV. On this Kodi box I also have the Netflix Addon installed, so that I can watch Netflix on my TV without actually owning a smart TV.
+Imagine me paying 14€ a month for a 4K Netflix package and wanting to watch the movie Red Sparrow. And as I am about to select this movie on my Kodi box I see that it is only available in 540p SD quality&amp;#x2026; I checked on my main desktop (a Linux box with Firefox) and it runs at least in 1080p, so it was not that the quality of the movie is that bad.
+&lt;/p&gt;
+
+&lt;p&gt;
+I pay for 4K and I am not even allowed to watch my content in 1080p, just because I use another client?
+I can of course understand the point of Netflix. An unsupported client may pose a security risk, but it still bugs me.
+&lt;/p&gt;
+
+&lt;p&gt;
+This is not that severe of a case, because I just rent this movie from Netflix, I know that and I also know, that they are allowed to choose the ways in which they want to distribute their content, but another case is Blu-Ray's on Linux. It is not officially possible to play Blu-Ray's on Linux, because there is no official software for it. It is locked down by DRM, even though you legally bought this movie or series or whatever is on there.
+&lt;/p&gt;
+
+&lt;p&gt;
+This is one of the core reasons, why people pirate stuff. Because their legally purchased media dictates them how they are allowed to use it. If I buy for example a book, I expect to be allowed to read it in the park or upside down in my car, without the book changing the order of it's words, if I do not sit with a perfect posture in a licensed chair.
+It is totally understandable, that people get upset by this and search for an alternative.
+&lt;/p&gt;
+
+&lt;p&gt;
+Another reason is, that one has to subscribe to dozens of streaming services to watch all the shows they want. In the beginning, there was only Netflix and maybe Amazon Prime. I would not have a problem with spending 20€ a month to watch everything I want, but now there is Netflix, Prime, Hulu, Disney +, HBO and so on. And you could pay a fortune and still not have access to everything. Let's take animes for example. Some stuff you just do not get, either because the streaming service in your region does not have it, or because they do not have it in general. So if you want to watch that anime you have to fly to Japan or something to buy the disks? Not really an option.
+&lt;/p&gt;
+
+&lt;p&gt;
+After following the r/piracy subreddit for a while I got the picture, that there is almost something like the universal agreement, that piracy would be dead, if there were reasonable ways to consume the desired media, without bullshit restrictions imposed by companies or other reasons why a legal way is just not possible. A lot of people on there even buy something like merch from the artists they pirate from to support them. This shows, that the reason they pirate this stuff is not because they refuse to give them money for their work. They get, that they also need to meet months end. This understatement is a bit lower if it goes against big corps tho. There we have something like a little resistance against them, a little insurgency trying to fight the mighty opponent, because he imposes shitty rules, which are very anti-consumer.
+&lt;/p&gt;
+
+&lt;p&gt;
+Furthermore I myself pirated some games in the past, but a very big percentage of those pirated games resulted in me buying this game. Why? I just wanted to try them. I played on a laptop, which definitely was not suited for gaming, so I wanted to see if it would even run on my hardware, before I spend up to 60€ on this game. A lot of people also just want to try stuff, if we talk about games, this does not really apply to movies I guess. They want to see if their hardware can run the game, just like you can try on clothes when buying them. There is also the reason to see if you even like the game. If there is a demo, which there rarely is, then it only shows a very small percentage of the game. Maybe I like the demo, buy the game and realize that it only showed the one fun percent of the game and the rest is just shit, then I, of course, would not be very happy. I often found myself playing a game, really liking it and saying: &quot;OK, I'll only continue playing this game after I bought it&quot;, because I wanted to support the devs, because by pirating I discovered the game for myself. If would not have pirated it, I would have never tried it and never bought it. So in some cases it is even free advertisment for their game.
+&lt;/p&gt;
+
+&lt;p&gt;
+Of course I am not saying, that this applys to all people. This is probably a very narrow view, that I developed from my interaction with this scene and my own views on this topic. Some people just do not want to spend the money, but still want to experience the thing. But a lot of people also buy the thing legally and pirate it in parallel, so that they have a sort of backup if companies mess with their legally acquired media or they support the artist in a different way. Some just want to try something before buying and others just have no other possibility because of availability.
+&lt;/p&gt;
+
+&lt;p&gt;
+If you disagree with me or have points and thoughts to add, write me a mail or hit me up on Mastodon.
+&lt;/p&gt;</content><author><name>Zeno</name></author><category term="Tech" /><summary type="html">I do not know how I could summarize this post, so in this post I talk a bit about piracy.</summary></entry><entry><title type="html">Reworking my blog</title><link href="https://adrsrv.duckdns.org/2021/01/11/rework.html" rel="alternate" type="text/html" title="Reworking my blog" /><published>2021-01-11T00:00:00+01:00</published><updated>2021-01-11T00:00:00+01:00</updated><id>https://adrsrv.duckdns.org/2021/01/11/rework</id><content type="html" xml:base="https://adrsrv.duckdns.org/2021/01/11/rework.html">&lt;p&gt;
+As some of you, if somebody even reads this^^, may have noticed, I reworked my blog and in this post I want to explain why and how I did that.
+&lt;/p&gt;
+
+&lt;p&gt;
+To explain why we have to start at the beginning of my original site. At first I wrote everything by hand. My homepage and my blog. Everything in plain HTML and CSS. Because I did not always want to edit the HTML of the blog after I wrote an article I created a bash script to help me. It was rather rudimentary, but it did the job of adding posts to my blog. But if I wanted to remove a specific article… I was to lazy to implement that, so I switched my blog over to Jekyll. Now I had a handwritten landing page and a blog managed by Jekyll.
+&lt;/p&gt;
+
+&lt;p&gt;
+For the theme for Jekyll I &lt;i&gt;adapted&lt;/i&gt; a theme called &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;Lanyon&lt;/a&gt;, which I found on the search for a nice theme. But, I did not like the colors, it just did not fit into my color scheme, so I did what I do best and started hacking the shit out of CSS provided by the theme. And because I did not write anything myself in this theme I did not really have a clue what I had to do or how &lt;b&gt;anything&lt;/b&gt; worked at all… (the same goes for Jekyll to a certain extend)
+&lt;/p&gt;
+
+&lt;p&gt;
+After some time I managed to get it to look how I wanted, but deep down I knew that this was not it.
+&lt;/p&gt;
+
+&lt;p&gt;
+So cut to yesterday, &lt;a href=&quot;https://kevq.uk/&quot;&gt;Kev Quirk&lt;/a&gt; posted an article on how to create a Jekyll site from scratch. Inspired by this post I grab some water and some snacks, sat down on my PC and created a new folder named &lt;code&gt;v2-zenopage&lt;/code&gt;. I loosely followed the guide by Kev, used the Jekyll documentation, some referencing to code from other projects and low and behold, here we are.
+&lt;/p&gt;
+
+&lt;p&gt;
+I worked on this the late afternoon till maybe midnight and I am pretty happy how it turned out. By building the site from scratch I now know how everything works under the hood and was able to easily implement my own CSS (btw, why does CSS have to suck so hard. I found it nearly impossible to get my footer to stay where it was supposed to…).
+&lt;/p&gt;
+
+&lt;p&gt;
+And now I have a website and a blog, which work well together, are rather minimal, have one unified look and can easily be managed from one application. So do not be afraid of throwing one concept overboard and have an open mind to new possibility's. And building from scratch is a very satisfying feeling in the end. 
+&lt;/p&gt;</content><author><name>Zeno</name></author><category term="Tech" /><summary type="html">As you may have noticed I reworked my blog. Here is why and how.</summary></entry><entry><title type="html">100 days to offload</title><link href="https://adrsrv.duckdns.org/2021/01/09/100-days-to-offload.html" rel="alternate" type="text/html" title="100 days to offload" /><published>2021-01-09T00:00:00+01:00</published><updated>2021-01-09T00:00:00+01:00</updated><id>https://adrsrv.duckdns.org/2021/01/09/100-days-to-offload</id><content type="html" xml:base="https://adrsrv.duckdns.org/2021/01/09/100-days-to-offload.html">&lt;p&gt;
+Alright, I sometimes have a problem with following through with things I have set my mind to, and the possibility's that this will happen with this challenge are not that slim, but I can still try. I mean, if I don't, nothing will change&amp;#x2026;
+&lt;/p&gt;
+
+&lt;p&gt;
+But what is this challenge. It is a &lt;a href=&quot;https://100daystooffload.com/&quot;&gt;challenge&lt;/a&gt; invented by &lt;a href=&quot;https://kevq.uk/&quot;&gt;Kev Quirk&lt;/a&gt;, to write 100 blog-posts in a year for your personal blog.
+&lt;/p&gt;
+
+&lt;p&gt;
+I wanted to write a blog for some time now, but there was always a distraction (I will come to this in another post) or reason not to. By facing this challenge I want to kind off force myself to finally do it. I love reading blogs from other people, I find it very interesting to read their thoughts and ideas, so why not write one myself, sometimes I also have interesting things to say(^^).
+&lt;/p&gt;
+
+&lt;p&gt;
+The main problem which I fear is not having anything to write about. But this should not be, as particularly mentioned on the website&amp;#x2026; So maybe I can get rid of it, but that will show in the future.
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;
+The point of #100DaysToOffload is to be a relaxing and cathartic experience. Not a worrisome affair where you’re thinking of things to write all the time.
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;
+So lets go!
+&lt;/p&gt;</content><author><name>Zeno</name></author><category term="#100DaysToOffload" /><summary type="html">Why not, I am giving this a try.</summary></entry><entry><title type="html">Walks</title><link href="https://adrsrv.duckdns.org/2020/12/30/walks.html" rel="alternate" type="text/html" title="Walks" /><published>2020-12-30T00:00:00+01:00</published><updated>2020-12-30T00:00:00+01:00</updated><id>https://adrsrv.duckdns.org/2020/12/30/walks</id><content type="html" xml:base="https://adrsrv.duckdns.org/2020/12/30/walks.html">&lt;p&gt;
+I want to tell you about the walk I took today.
+&lt;/p&gt;
+
+&lt;p&gt;
+The majority of yesterday afternoon and night and today I spend on getting this site to do and look exactly like I want it to behave and look. And while I enjoy doing stuff like this it can be quite exhausting, if you do it over such an extended period of time without any mayor breaks.
+&lt;/p&gt;
+
+&lt;p&gt;
+So I decided to go for a walk.
+&lt;/p&gt;
+
+&lt;p&gt;
+I started to go on walks just a few weeks back, maybe a month. One day I brought my girlfriend home and instead of going straight home I took a turn and just walked around my neighborhood for maybe and hour, two. And I really enjoyed it. And I was kinda surprised, that I enjoyed it that much. Mind me, I am a 17 year old nerd. It is not exactly common for my type to casually go for walks.
+&lt;/p&gt;
+
+&lt;p&gt;
+And since then I would sometimes just grab my headphones, put on a podcast and start strolling around, taking a turn here and there and exploring this street which I barely ever noticed.
+&lt;/p&gt;
+
+&lt;p&gt;
+After finished this site today I felt exhausted, weary. I love going on walks, when it is already dark, in the evening. It was something around 19'o clock (7 p.m. for Americans), so a perfect time, in my view. I grabbed my headphones and started walking.
+I walked a few streets, when I paused my podcast and just walked. At first it was a little strange, but I got accustomed to it. So I wandered like this a maybe 15 minutes, until I put my headphones back on.
+Now, this might not seem like a big deal to some of you, but for me, it kinda was. Usually I always have something on my ears, I rarely do something without there being anything else, so this is why this was something new to me.
+&lt;/p&gt;
+
+&lt;p&gt;
+Later I got to a crossroad. I planed on going a route I already knew, but then and there I decided to take the other turn.
+&lt;/p&gt;
+
+&lt;p&gt;
+I again walked quite some thing, next to me an enormous warehouse, with neon-lights and then this street, but with barely any cars. Just this huge street which the orange light of the lanterns at the roadside.
+I love this aesthetics, this cyberpunk-ish looking world.
+And then I got to this little road, only for pedestrians, or bikes, which is between this huge meadow and this tiny little forest with a tiny river and a see. No lanterns. And I took the turn.
+After a few minutes I look over at the meadow and decided, I don't know why, it is fucking winter, 4 degree Celsius at best, that I should lay down.
+&lt;/p&gt;
+
+&lt;p&gt;
+So I lay down, on the grass and just look into the sky. And I notice. The sky was beautiful. I could see the stars and the almost full moon, being incredibly bright and those thin clouds wandering over me, illuminated by the moon. It was amazing. I once again pause my podcast and just lie there, gazing into the night.
+&lt;/p&gt;
+
+&lt;p&gt;
+And in this moment there were only &lt;b&gt;&lt;b&gt;this moment&lt;/b&gt;&lt;/b&gt; and I, next to my thoughts. Nothing else. No school, no corona, no tech, &lt;i&gt;nothing&lt;/i&gt;. The only thing I could hear was the monotonous white noise of a nearby highway, otherwise just utter silence.
+&lt;/p&gt;
+
+&lt;p&gt;
+I don't know how long I have been there, maybe 15-20 minutes, but it was a beautiful moment. A moment, which I maybe should be experiencing more.
+&lt;/p&gt;
+
+&lt;p&gt;
+So now I sit here, beautifully relaxed, writing this post.
+&lt;/p&gt;
+
+&lt;p&gt;
+So, people, go for walks.
+&lt;/p&gt;</content><author><name>Zeno</name></author><category term="Personal life" /><summary type="html">Of course my first post is about something, that totally does not fit into the theme of this website, but I want to tell you about a walk I took today.</summary></entry></feed>
