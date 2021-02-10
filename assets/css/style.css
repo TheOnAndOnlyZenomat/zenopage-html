@@ -64,10 +64,6 @@ hr {
     margin-bottom: 15px;
 }
 
-hr {
-    color: #ffffff;
-}
-
 p.meta {
     color: var(--sec-accent);
     margin-top: -1em;
@@ -83,7 +79,6 @@ blockquote {
 
 nav {
     margin-bottom: 10px;
-    margin-top: 10px;
 }
 
 table {
