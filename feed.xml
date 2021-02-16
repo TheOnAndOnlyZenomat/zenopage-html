@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://adrsrv.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://adrsrv.duckdns.org/" rel="alternate" type="text/html" /><updated>2021-02-10T14:04:32+01:00</updated><id>https://adrsrv.duckdns.org/feed.xml</id><title type="html">Zeno’s Homepage</title><subtitle>A webpage and blog for me, Zeno, a 17 year old dude interested in Linux, FOSS, selfhosting and other stuff.</subtitle><author><name>Zeno</name><email>adrsrv@protonmail.org</email></author><entry><title type="html">DWM Patching and themeing</title><link href="https://adrsrv.duckdns.org/2021/02/10/dwm-patching.html" rel="alternate" type="text/html" title="DWM Patching and themeing" /><published>2021-02-10T00:00:00+01:00</published><updated>2021-02-10T00:00:00+01:00</updated><id>https://adrsrv.duckdns.org/2021/02/10/dwm-patching</id><content type="html" xml:base="https://adrsrv.duckdns.org/2021/02/10/dwm-patching.html">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://adrsrv.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://adrsrv.duckdns.org/" rel="alternate" type="text/html" /><updated>2021-02-16T16:13:16+01:00</updated><id>https://adrsrv.duckdns.org/feed.xml</id><title type="html">Zeno’s Homepage</title><subtitle>A webpage and blog for me, Zeno, a 17 year old dude interested in Linux, FOSS, selfhosting and other stuff.</subtitle><author><name>Zeno</name><email>adrsrv@protonmail.org</email></author><entry><title type="html">My little adventure with Rust</title><link href="https://adrsrv.duckdns.org/2021/02/16/rust.html" rel="alternate" type="text/html" title="My little adventure with Rust" /><published>2021-02-16T00:00:00+01:00</published><updated>2021-02-16T00:00:00+01:00</updated><id>https://adrsrv.duckdns.org/2021/02/16/rust</id><content type="html" xml:base="https://adrsrv.duckdns.org/2021/02/16/rust.html">&lt;p&gt;
+Rust. The meme programing language. Half of the people love it and want to rewrite everything in it, the other half does not like it. And I am somewhere in the middle.
+&lt;/p&gt;
+
+&lt;p&gt;
+Of course it is not that black and white. It is just, that those are the loudest voices, and those are all you hear. But it is true, that I am somewhere in the middle.
+&lt;/p&gt;
+
+&lt;p&gt;
+As far as programing languages go, I know Python and written some small projects in it, dabbled a bit with C and C#, and know some Bash scripting. But that's about it. But I really love coding. I have fun doing it. Being able to create stuff from almost nothing; making the computer do exactly (at least in theorie^^) what you want. This tickles something in me.
+&lt;/p&gt;
+
+&lt;p&gt;
+Python, because it is a good beginner language and I had fun there, and C/C#, because it is able to do more low level things and is more present in gamedev than Python. And I wanted to do more low level stuff and maybe some gamedev. 
+&lt;/p&gt;
+
+&lt;p&gt;
+Turns out C is hard. With all the manual stuff like memory control and types and so on. It was hard to grasp those concepts for a (not much) younger me. Especially, because I did not really had an idea for a project, and therefore not too much motivation nor practice with the language. So my C journey found a rather quick end.
+&lt;/p&gt;
+
+&lt;p&gt;
+That was it for my coding career for some time, except some bash scripting, and I started to do a but more sysops stuff with my server and a bit more gaming with friends.
+&lt;/p&gt;
+
+&lt;p&gt;
+But recently one could hear a lot from Rust and I asked myself, what is this Rust. So I set out to google it. I read some articles, on why one should use Rust and looked at there website.
+&lt;/p&gt;
+
+&lt;p&gt;
+What do I see there?
+&lt;/p&gt;
+
+&lt;p&gt;
+They have an official Rust book, where they introduce you to the language and guide you through the concepts. I've also recently started to read more again, so I set out to take a look at this book, and I was captured. I do not know what exactly it was. I would guess a mix from the good guidance, the power of the lower level, while also being a good language for other tasks.
+&lt;/p&gt;
+
+&lt;p&gt;
+Maybe if there was such a good documentation/book for C I would have stuck with it, but maybe I have just missed it. But I found the Rust book, so here we are.
+&lt;/p&gt;
+
+&lt;p&gt;
+So I have begun to read the book and after a few pages decided I would setup a Rust environment on my PC. Downloaded rustup, run it and let's go.
+&lt;/p&gt;
+
+&lt;p&gt;
+At this time I wanted to play a clicker game, why, I do not know, which is not bloated, and somehow came to the conclusion to write one myself with Rust, because why not.
+&lt;/p&gt;
+
+&lt;p&gt;
+So this is how I came to write my own little game in Rust. I will talk about the game on this blog in the future, because I really have fun writing it and doing everything involved with it.
+&lt;/p&gt;</content><author><name>Zeno</name></author><category term="Coding" /><category term="Rust" /><category term="Tech" /><summary type="html">My journey towards Rust</summary></entry><entry><title type="html">DWM Patching and themeing</title><link href="https://adrsrv.duckdns.org/2021/02/10/dwm-patching.html" rel="alternate" type="text/html" title="DWM Patching and themeing" /><published>2021-02-10T00:00:00+01:00</published><updated>2021-02-10T00:00:00+01:00</updated><id>https://adrsrv.duckdns.org/2021/02/10/dwm-patching</id><content type="html" xml:base="https://adrsrv.duckdns.org/2021/02/10/dwm-patching.html">&lt;p&gt;
 First of all, sorry for the long break, just did not find the time or motivation to write something, tho I have collected a few ideas about what to write.
 &lt;/p&gt;
 
