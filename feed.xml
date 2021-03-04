@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://adrsrv.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://adrsrv.duckdns.org/" rel="alternate" type="text/html" /><updated>2021-02-16T16:13:16+01:00</updated><id>https://adrsrv.duckdns.org/feed.xml</id><title type="html">Zeno’s Homepage</title><subtitle>A webpage and blog for me, Zeno, a 17 year old dude interested in Linux, FOSS, selfhosting and other stuff.</subtitle><author><name>Zeno</name><email>adrsrv@protonmail.org</email></author><entry><title type="html">My little adventure with Rust</title><link href="https://adrsrv.duckdns.org/2021/02/16/rust.html" rel="alternate" type="text/html" title="My little adventure with Rust" /><published>2021-02-16T00:00:00+01:00</published><updated>2021-02-16T00:00:00+01:00</updated><id>https://adrsrv.duckdns.org/2021/02/16/rust</id><content type="html" xml:base="https://adrsrv.duckdns.org/2021/02/16/rust.html">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://adrsrv.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://adrsrv.duckdns.org/" rel="alternate" type="text/html" /><updated>2021-03-04T20:47:38+01:00</updated><id>https://adrsrv.duckdns.org/feed.xml</id><title type="html">Zeno’s Homepage</title><subtitle>A webpage and blog for me, Zeno, a 17 year old dude interested in Linux, FOSS, selfhosting and other stuff.</subtitle><author><name>Zeno</name><email>adrsrv@protonmail.org</email></author><entry><title type="html">Cluster Finished</title><link href="https://adrsrv.duckdns.org/2021/03/04/cluster-finished.html" rel="alternate" type="text/html" title="Cluster Finished" /><published>2021-03-04T00:00:00+01:00</published><updated>2021-03-04T00:00:00+01:00</updated><id>https://adrsrv.duckdns.org/2021/03/04/cluster-finished</id><content type="html" xml:base="https://adrsrv.duckdns.org/2021/03/04/cluster-finished.html">---
+layout: posts
+title: Finished Cluster - What now?
+author: Zeno
+excerpt: I finished my first big-ish project and here is how it went
+tags: [&quot;Coding&quot;, &quot;Rust&quot;, &quot;Tech&quot;]
+
+&lt;p&gt;
+I know, I know. I haven't done anything is 3 weeks, shame on me.
+&lt;/p&gt;
+
+&lt;p&gt;
+But I had reasons for that.
+&lt;/p&gt;
+
+&lt;p&gt;
+First one is, that I had pre-exams at school, so I had to take care of that. Basically a nearly 6 hour test in German, 4 and a half in Math and 5 hours in English.
+&lt;/p&gt;
+
+&lt;p&gt;
+Second one is, that I worked on my first bigger Rust project. I already mentioned it briefly in the last blog post, my clicker game called Cluster.
+&lt;/p&gt;
+
+&lt;p&gt;
+Developing it was a lot of fun and I learned a lot on the way, got to know Rust. So it basically fulfilled it's job perfectly.
+You can find the git repo &lt;a href=&quot;https://github.com/TheOnAndOnlyZenomat/cluster&quot;&gt;here&lt;/a&gt;. I have everything explained there in the README.
+&lt;/p&gt;
+
+&lt;p&gt;
+One funny anecdote I want to tell you is this one:
+&lt;/p&gt;
+
+&lt;p&gt;
+I wanted to add so and so much points per second, depending on the items the player bought, and I &quot;solved&quot; this, by putting the whole thread to sleep for one second. As you probably can already imagine, this raised some problems. The biggest one, I could only read the input of the player once per second, which sucks super hard. And I had no idea on how to fix that. I already was thinking about multi-threading and such, totally over complicating stuff. 
+&lt;/p&gt;
+
+&lt;p&gt;
+But LevitatingBuisnessMan to the rescue. He is a guy, I do not even remember how I got to know him, to whom I talk maybe once or twice a year. We talk about the coding projects we are currently working on and share a bit of knowledge and other stuff.
+&lt;/p&gt;
+
+&lt;p&gt;
+So I show him, what I am working on and he mentioned, that I should not put the whole thread to sleep, but could just use &lt;code&gt;Systemtime.now().elapsed&lt;/code&gt; to measure the time since the last execute of the add function. So I implemented that and the problem was solved. Without him I probably would have never found this function and over engineered the whole thing unnecessarily. He also made a PR to the project to implement a better save system, which was on my list anyway, so that was super nice.
+&lt;/p&gt;
+
+&lt;p&gt;
+What is the point, I do not know. Maybe just that one should not be afraid to talk with people about their projects, even if they are tiny and you are just a beginner and the other guy is programming in this language for 10 years. Everybody was a beginner once and the majority of people is nice and willing to help, show you stuff, which is super useful, that you would have maybe never found.
+&lt;/p&gt;
+
+&lt;p&gt;
+It was super fun building this small project and super useful as a learning project. Seeing this whole thing build up from nothing was a very rewarding feeling and brought me back the joy at coding. So yeah, it is totally worth to build you own (small) (side-)projects. 
+&lt;/p&gt;</content><author><name>Zeno</name><email>adrsrv@protonmail.org</email></author><summary type="html">--- layout: posts title: Finished Cluster - What now? author: Zeno excerpt: I finished my first big-ish project and here is how it went tags: [&quot;Coding&quot;, &quot;Rust&quot;, &quot;Tech&quot;]</summary></entry><entry><title type="html">My little adventure with Rust</title><link href="https://adrsrv.duckdns.org/2021/02/16/rust.html" rel="alternate" type="text/html" title="My little adventure with Rust" /><published>2021-02-16T00:00:00+01:00</published><updated>2021-02-16T00:00:00+01:00</updated><id>https://adrsrv.duckdns.org/2021/02/16/rust</id><content type="html" xml:base="https://adrsrv.duckdns.org/2021/02/16/rust.html">&lt;p&gt;
 Rust. The meme programing language. Half of the people love it and want to rewrite everything in it, the other half does not like it. And I am somewhere in the middle.
 &lt;/p&gt;
 
